@@ -1,10 +1,10 @@
 // gcc -o drmgl drmasyncvs.c `pkg-config --cflags --libs libdrm` -lgbm -lEGL -lGLESv2
 
 /*
- * Copyright (c) 2020 strangetrail
  * Copyright (c) 2012 Arvin Schnell <arvin.schnell@gmail.com>
  * Copyright (c) 2012 Rob Clark <rob@ti.com>
  * Copyright (c) 2017 Miouyouyou <Myy> <myy@miouyouyou.fr>
+ * Copyright (c) 2020 strangetrail
  *
  * Permission is hereby granted, free of charge, to any person obtaining a
  * copy of this software and associated documentation files (the "Software"),
